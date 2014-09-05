@@ -1,0 +1,84 @@
+body {
+    background-color: #000000;
+    font-family: helvetica, arial, sans-serif;
+}
+div#container {
+    background-color: #ffffff;
+    color: #000000;
+    margin: 0 auto;
+    max-width: 1024px;
+    padding: 20px;
+}
+div#header {
+    font-size: 11px;
+    margin-bottom: 20px;
+    margin-left: 0;
+    text-align: left;
+}
+h1 {
+    font-family: Roboto;
+}
+div#nav {
+    font-size: 13px;
+    margin: 0 0 50px 0;
+    padding: 0 10px;
+}
+div#nav a {
+    font-weight: bold;
+    line-height: 170%;
+    margin-right: 5px;
+    padding: 5px;
+    text-transform: uppercase;
+}
+div#nav a:hover {
+    background-color: #666666;
+    color: #eeeeee;
+    font-weight: bold;
+    line-height: 170%;
+    margin-right: 5px;
+    padding: 5px;
+    text-transform: uppercase;
+}
+div#body {
+    padding: 0 5px;
+}
+div.page {
+    padding: 0;
+}
+div.note {
+    background-color: #eeeeee;
+    float: left;
+    margin: 0 10px 10px 0;
+    padding: 10px;
+    width: 200px;
+}
+div.note div.title {
+    color: #2c2c2c;
+    margin-bottom: 10px;
+}
+div.service a {
+    background-color: #eeeeee;
+    text-decoration: none;
+}
+footer {
+    color: #2c2c2c;
+    font-size: 95%;
+    margin: 40px 0 10px 0;
+    padding: 0 5px;
+    text-align: left;
+}
+footer strong {
+    font-size: 90%;
+}
+a, a:visited {
+    background-color: #eeeeee;
+    color: #000000;
+    padding: 3px;
+    text-decoration: none;
+}
+a:hover, a:active {
+    background-color: #666666;
+    color: #eeeeee;
+    padding: 3px;
+    text-decoration: none;
+}
