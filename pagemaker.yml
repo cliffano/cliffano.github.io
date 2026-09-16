@@ -1,0 +1,15 @@
+---
+package_name: cliffano.github.io
+author: Cliffano Subagio
+generator:
+  component: project-site
+  inputs:
+    project_id: cliffano.github.io
+    project_name: Studio Cliffano
+    project_desc: Website for Studio Cliffano project
+    author_name: Cliffano Subagio
+    author_email: cliffano@gmail.com
+    author_url: https://github.com/cliffano
+    github_id: cliffano
+    github_repo: cliffano.github.io
+    github_token_prefix: STUDIO

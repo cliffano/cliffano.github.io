@@ -1,0 +1,103 @@
+{
+	"org": {
+		"id": "cliffano.github.io",
+		"name": "Studio Cliffano",
+		"description": ""
+	},
+	"repositories": {
+		"Builders": [
+			{
+				"id": "actobat",
+				"name": "Actobat",
+				"description": "Makefile for building GitHub Actions"
+			},
+			{
+				"id": "backpacker",
+				"name": "Backpacker",
+				"description": "Makefile for building Packer-based machine images"
+			},
+			{
+				"id": "cobbler",
+				"name": "Cobbler",
+				"description": "Makefile for building Ansible roles"
+			},
+			{
+				"id": "doco",
+				"name": "Doco",
+				"description": "Makefile for building DocoSite websites"
+			},
+			{
+				"id": "pagemaker",
+				"name": "PageMaker",
+				"description": "Makefile for building ProjectSite websites"
+			},
+			{
+				"id": "piemaker",
+				"name": "PieMaker",
+				"description": "Makefile for building Python packages"
+			},
+			{
+				"id": "suntory",
+				"name": "Suntory",
+				"description": "Makefile for building Node.js packages"
+			},
+			{
+				"id": "tfmake",
+				"name": "TFMake",
+				"description": "Makefile for building Terraform modules"
+			}
+		],
+		"Code Generators": [
+			{
+				"id": "generator-ansible",
+				"name": "Generator Ansible",
+				"description": "Code generator for Ansible projects"
+			},
+			{
+				"id": "generator-generator",
+				"name": "Generator Generator",
+				"description": "Code generator for code generators"
+			},
+			{
+				"id": "generator-github-action",
+				"name": "Generator GitHub Action",
+				"description": "Code generator for GitHub Actions"
+			},
+			{
+				"id": "generator-kon-tiki",
+				"name": "Generator Kon-Tiki",
+				"description": "Code generator for Kon-Tiki static web sites"
+			},
+			{
+				"id": "generator-makefile",
+				"name": "Generator Makefile",
+				"description": "Code generator for Makefile projects"
+			},
+			{
+				"id": "generator-node",
+				"name": "Generator Node",
+				"description": "Code generator for Node.js packages"
+			},
+			{
+				"id": "generator-packer",
+				"name": "Generator Packer",
+				"description": "Code generator for Packer builders"
+			},
+			{
+				"id": "generator-python",
+				"name": "Generator Python",
+				"description": "Code generator for Python projects"
+			},
+			{
+				"id": "generator-terraform",
+				"name": "Generator Terraform",
+				"description": "Code generator for Terraform modules"
+			},
+			{
+				"id": "generator-website",
+				"name": "Generator Website",
+				"description": "Code generator for micro websites"
+			}
+		]
+	}
+}
