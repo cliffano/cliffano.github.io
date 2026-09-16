@@ -5,7 +5,7 @@
 		"description": ""
 	},
 	"repositories": {
-		"Builders": [
+		"Code Builders": [
 			{
 				"id": "actobat",
 				"name": "Actobat",
