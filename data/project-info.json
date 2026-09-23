@@ -5,6 +5,13 @@
 		"description": "Code + Coffee"
 	},
 	"repositories": {
+		"Devices": [
+			{
+				"id": "usbled-standalone",
+				"name": "USBLED Standalone",
+				"description": "A USB LED Linux device driver for stand-alone installation"
+			}
+		],
 		"Code Builders": [
 			{
 				"id": "actobat",
