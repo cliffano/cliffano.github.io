@@ -2,6 +2,10 @@
 
 Code + Coffee
 
+### Devices
+
+* [![Build Status](https://github.com/cliffano/usbled-standalone/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/cliffano/usbled-standalone/actions?query=workflow%3ACI) [USBLED Standalone](https://github.com/cliffano/usbled-standalone) - A USB LED Linux device driver for stand-alone installation
+
 ### Code Builders
 
 * [![Build Status](https://github.com/cliffano/actobat/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/cliffano/actobat/actions?query=workflow%3ACI) [Actobat](https://github.com/cliffano/actobat) - Makefile for building GitHub Actions
