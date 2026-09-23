@@ -9,4 +9,8 @@
 
 # Studio Cliffano
 
-Website for Website for Studio Cliffano project at <https://example.com> .
+Website for Studio Cliffano project at <https://example.com> .
+
+<!-- BEGIN:DEVELOPERS_GUIDE -->
+[Developer's Guide](https://cliffano.github.io/developers-guide-website.html)
+<!-- END:DEVELOPERS_GUIDE -->
