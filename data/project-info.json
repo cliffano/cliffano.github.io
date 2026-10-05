@@ -29,6 +29,11 @@
 				"description": "Makefile for building Ansible roles"
 			},
 			{
+				"id": "crust",
+				"name": "Crust",
+				"description": "Makefile for building Rust packages"
+			},
+			{
 				"id": "doco",
 				"name": "Doco",
 				"description": "Makefile for building DocoSite websites"
@@ -94,6 +99,11 @@
 				"id": "generator-python",
 				"name": "Generator Python",
 				"description": "Code generator for Python projects"
+			},
+			{
+				"id": "generator-rust",
+				"name": "Generator Rust",
+				"description": "Code generator for Rust projects"
 			},
 			{
 				"id": "generator-terraform",
