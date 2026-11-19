@@ -39,6 +39,11 @@
 				"description": "Makefile for building DocoSite websites"
 			},
 			{
+				"id": "olympia",
+				"name": "Olympia",
+				"description": "Makefile for building TypeScript packages"
+			},
+			{
 				"id": "pagemaker",
 				"name": "PageMaker",
 				"description": "Makefile for building ProjectSite websites"
