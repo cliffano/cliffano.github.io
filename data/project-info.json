@@ -5,6 +5,28 @@
 		"description": "Code + Coffee"
 	},
 	"repositories": {
+		"CI/CD": [
+			{
+				"id": "command-docker-action",
+				"name": "Command Docker GitHub Action",
+				"description": "A simple GitHub Action for running a shell command via a Docker container"
+			},
+			{
+				"id": "command-loop-action",
+				"name": "Command Loop GitHub Action",
+				"description": "A simple GitHub Action for running a shell command in a loop against a list of items"
+			},
+			{
+				"id": "release-action",
+				"name": "Release GitHub Action",
+				"description": "GitHub Action for creating a repository release using RTK"
+			},
+			{
+				"id": "save-changes-action",
+				"name": "Save Changes GitHub Action",
+				"description": "GitHub Action for adding, committing, and pushing changes to a repository"
+			}
+		],
 		"Devices": [
 			{
 				"id": "usbled-standalone",
