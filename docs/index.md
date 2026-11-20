@@ -2,6 +2,14 @@
 
 Code + Coffee
 
+### CI/CD
+
+* [![Build Status](https://github.com/cliffano/command-docker-action/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/cliffano/command-docker-action/actions?query=workflow%3ACI) [Command Docker GitHub Action](https://github.com/cliffano/command-docker-action) - A simple GitHub Action for running a shell command via a Docker container
+* [![Build Status](https://github.com/cliffano/command-loop-action/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/cliffano/command-loop-action/actions?query=workflow%3ACI) [Command Loop GitHub Action](https://github.com/cliffano/command-loop-action) - A simple GitHub Action for running a shell command in a loop against a list of items
+* [![Build Status](https://github.com/cliffano/dispatch-workflow-action/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/cliffano/dispatch-workflow-action/actions?query=workflow%3ACI) [Dispatch Workflow GitHub Action](https://github.com/cliffano/dispatch-workflow-action) - GitHub Action for dispatching workflows across repositories and waiting for completion
+* [![Build Status](https://github.com/cliffano/release-action/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/cliffano/release-action/actions?query=workflow%3ACI) [Release GitHub Action](https://github.com/cliffano/release-action) - GitHub Action for creating a repository release using RTK
+* [![Build Status](https://github.com/cliffano/save-changes-action/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/cliffano/save-changes-action/actions?query=workflow%3ACI) [Save Changes GitHub Action](https://github.com/cliffano/save-changes-action) - GitHub Action for adding, committing, and pushing changes to a repository
+
 ### Devices
 
 * [![Build Status](https://github.com/cliffano/usbled-standalone/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/cliffano/usbled-standalone/actions?query=workflow%3ACI) [USBLED Standalone](https://github.com/cliffano/usbled-standalone) - A USB LED Linux device driver for stand-alone installation
@@ -13,6 +21,7 @@ Code + Coffee
 * [![Build Status](https://github.com/cliffano/cobbler/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/cliffano/cobbler/actions?query=workflow%3ACI) [Cobbler](https://github.com/cliffano/cobbler) - Makefile for building Ansible roles
 * [![Build Status](https://github.com/cliffano/crust/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/cliffano/crust/actions?query=workflow%3ACI) [Crust](https://github.com/cliffano/crust) - Makefile for building Rust packages
 * [![Build Status](https://github.com/cliffano/doco/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/cliffano/doco/actions?query=workflow%3ACI) [Doco](https://github.com/cliffano/doco) - Makefile for building DocoSite websites
+* [![Build Status](https://github.com/cliffano/olympia/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/cliffano/olympia/actions?query=workflow%3ACI) [Olympia](https://github.com/cliffano/olympia) - Makefile for building TypeScript packages
 * [![Build Status](https://github.com/cliffano/pagemaker/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/cliffano/pagemaker/actions?query=workflow%3ACI) [PageMaker](https://github.com/cliffano/pagemaker) - Makefile for building ProjectSite websites
 * [![Build Status](https://github.com/cliffano/piemaker/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/cliffano/piemaker/actions?query=workflow%3ACI) [PieMaker](https://github.com/cliffano/piemaker) - Makefile for building Python packages
 * [![Build Status](https://github.com/cliffano/suntory/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/cliffano/suntory/actions?query=workflow%3ACI) [Suntory](https://github.com/cliffano/suntory) - Makefile for building Node.js packages
