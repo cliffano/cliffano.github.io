@@ -17,6 +17,11 @@
 				"description": "A simple GitHub Action for running a shell command in a loop against a list of items"
 			},
 			{
+				"id": "dispatch-workflow-action",
+				"name": "Dispatch Workflow GitHub Action",
+				"description": "GitHub Action for dispatching workflows across repositories and waiting for completion"
+			},
+			{
 				"id": "release-action",
 				"name": "Release GitHub Action",
 				"description": "GitHub Action for creating a repository release using RTK"
